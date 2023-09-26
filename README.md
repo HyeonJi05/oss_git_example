@@ -40,7 +40,7 @@
 * Git 자유실습(How, Advanced)
 * Git 이해하기(Why, What)
 
-![Image](.\git_logo.png)
+![Image](git_logo.png)
 
 -------------
 ### Week2-3
